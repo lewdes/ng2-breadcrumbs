@@ -15,7 +15,6 @@ import {BreadcrumbsService} from "./breadcrumbs.service";
     ],
     imports: [
         RouterModule,
-        BrowserModule,
         CommonModule
     ],
     exports: [BreadcrumbComponent]
